@@ -9,7 +9,6 @@
    - [Installation du projet](#installation-du-projet)
 4. [Fonctionnalités](#fonctionnalités)
 
----
 
 ## Présentation du projet  
 
@@ -21,7 +20,7 @@ Avec pour objectif :
 - D'explorer les concepts fondamentaux du chiffrement
 - étudier en RSA plusieurs concepts, y compris **RSA-CRT**, **RSA avec padding**, et les notions de **malleability** et **indistinguishability**.
 
----
+
 
 ## Document Officiel
 
@@ -39,7 +38,7 @@ Veuillez consulter le document officiel pour une explication détaillée du proj
   - ![rsa_page-1](https://github.com/user-attachments/assets/c9765875-2d52-4ae6-8634-6968419f954e)
   - ![rsa_page-2](https://github.com/user-attachments/assets/3098bde8-6c0e-47b2-bd69-c4071e035ed5)
 
----
+
 
 ## Installation et Utilisation  
 
@@ -67,7 +66,7 @@ Avant de commencer, assurez-vous d'avoir installé les éléments suivants :
 1. Ouvrez les fichiers principales : `../aes.java` , `../affine_cipher.java` , `../rsa.java`
 2. Exécutez-le en cliquant sur **Run** (ou en utilisant le raccourci `Ctrl + F11`).
 
----
+
 
 ## Fonctionnalités
 
